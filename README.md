@@ -1,16 +1,20 @@
-# notes_app
+# 📓 Notes App
 
-A new Flutter project.
+A clean, responsive, and fully functional Notes application developed using **Flutter**. This project focuses on delivering a smooth user experience for writing, organizing, and managing daily notes.
 
-## Getting Started
+## 👨‍💻 Developer Note
+> **Quick Disclaimer:** My core expertise and primary major lie in **Backend & Full-Stack Development (specifically MEAN Stack & .NET)**. 
+> I built this Flutter application to broaden my technical horizon, explore cross-platform mobile development, and successfully deliver out-of-scope projects (such as my ITI Mobile App Development track). It demonstrates my ability to adapt to new frameworks and learn fast.
 
-This project is a starting point for a Flutter application.
+## 📂 Project Structure
 
-A few resources to get you started if this is your first Flutter project:
+Here is a brief overview of the core architecture and folder structure inside the `lib/` directory:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```text
+lib/
+│
+├── main.dart             # Application entry point and theme configuration
+├── screens/              # Main UI Screens (e.g., HomeScreen, AddNoteScreen)
+├── widgets/              # Reusable custom UI components (e.g., NoteCard, CustomTextField)
+├── models/               # Data models representing the Note object
+└── services/             # Logic for local storage or database operations
