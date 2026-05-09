@@ -38,3 +38,33 @@ To get a local copy up and running, follow these simple steps.
 
 Prerequisites
 Make sure you have the Flutter SDK installed on your machine. You can find the installation guide here.
+
+## 🛠️ Installation & Run
+Clone the repository:
+
+```Bash
+git clone [https://github.com/stevenashrafkamal/Notes_App_Flutter.git](https://github.com/stevenashrafkamal/Notes_App_Flutter.git)
+```
+Navigate to the project directory:
+
+```Bash
+cd notes_app
+```
+Install dependencies:
+
+```Bash
+flutter pub get
+```
+Run the application (ensure an emulator is running or a device is connected):
+
+```Bash
+flutter run
+```
+## 👨‍💻 Developer
+Steven Ashraf Kamal Gerges
+
+Full-Stack Developer (MEAN Stack | .NET)
+
+Explore my primary backend and full-stack projects on my GitHub:
+
+🔗 GitHub: @stevenashrafkamal
