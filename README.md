@@ -18,3 +18,23 @@ lib/
 ├── widgets/              # Reusable custom UI components (e.g., NoteCard, CustomTextField)
 ├── models/               # Data models representing the Note object
 └── services/             # Logic for local storage or database operations
+```
+## ✨ Features
+📝 CRUD Operations: Easily Create, Read, Update, and Delete notes.
+
+🎨 Modern UI: A clean, user-friendly, and responsive interface.
+
+💾 State Management & Storage: Efficient handling of app state and local data.
+
+🚀 Cross-Platform: Built to run smoothly on mobile devices.
+
+## 🛠️ Tech Stack
+Framework: Flutter
+
+Language: Dart
+
+## 🚀 Getting Started
+To get a local copy up and running, follow these simple steps.
+
+Prerequisites
+Make sure you have the Flutter SDK installed on your machine. You can find the installation guide here.
