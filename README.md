@@ -1,5 +1,8 @@
 # 📓 Notes App
 
+![Notes app Banner](notes-app.webp)
+
+
 A clean, responsive, and fully functional Notes application developed using **Flutter**. This project focuses on delivering a smooth user experience for writing, organizing, and managing daily notes.
 
 ## 👨‍💻 Developer Note
